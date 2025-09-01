@@ -153,11 +153,10 @@ String basePath = request.getScheme() + "://" + request.getServerName() + ":" + 
 
             <div class="register-link">
                 <p>
-                    Bạn chưa có tài khoản? <a href="<%=path%>/register">Đăng ký</a>
+                    Bạn chưa có tài khoản? <a href="<%=path%>/register.jsp">Đăng ký</a>
                 </p>
             </div>
         </form>
     </div>
-
 </body>
 </html>
